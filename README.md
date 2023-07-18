@@ -1,2 +1,1 @@
-# alx-low_level_programming
-repo for betty
+#0x02-functions_nested_loops
